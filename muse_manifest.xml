@@ -1,0 +1,89 @@
+<manifest alg="2" build="2017.0.2.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="georgethomasphotography.com" resolutions="1x" timestamp="1498794333106">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="master_a-master.css" crc="448064274" ref="index:poster:automotive:banner:product:contact:book-cover:photoshop:website"/>
+    <file name="index.css" crc="4255975899" ref="index"/>
+    <file name="poster.css" crc="4255975899" ref="poster"/>
+    <file name="automotive.css" crc="4255975899" ref="automotive"/>
+    <file name="banner.css" crc="4255975899" ref="banner"/>
+    <file name="product.css" crc="4255975899" ref="product"/>
+    <file name="contact.css" crc="4255975899" ref="contact"/>
+    <file name="book-cover.css" crc="4255975899" ref="book-cover"/>
+    <file name="photoshop.css" crc="4255975899" ref="photoshop"/>
+    <file name="website.css" crc="4255975899" ref="website"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:automotive:photoshop:product:contact:book-cover:banner:website:poster"/>
+    <file name="museutils.js" crc="4232573551" ref="index:automotive:photoshop:product:contact:book-cover:banner:website:poster"/>
+    <file name="whatinput.js" crc="86476730" ref="index:automotive:photoshop:product:contact:book-cover:banner:website:poster"/>
+    <file name="museconfig.js" crc="3849126041" ref="index:automotive:photoshop:product:contact:book-cover:banner:website:poster"/>
+    <file name="jquery.musemenu.js" crc="38860304" ref="index:automotive:photoshop:product:contact:book-cover:banner:website:poster"/>
+    <file name="jquery.watch.js" crc="3844535323" ref="index:automotive:photoshop:product:contact:book-cover:banner:website:poster"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:automotive:photoshop:product:contact:book-cover:banner:website:poster"/>
+    <file name="require.js" crc="4234670167" ref="index:automotive:photoshop:product:contact:book-cover:banner:website:poster"/>
+  </folder>
+  <folder name="images">
+    <file name="u206-4.png" crc="3826794982" ref="index:automotive:photoshop:product:contact:book-cover:banner:website:poster"/>
+    <file name="flowers 3.png" crc="3946434366" seo="true" ref="index:automotive:photoshop:product:contact:book-cover:banner:website:poster">
+      <caption webpage="poster" alt=""/>
+      <caption webpage="poster" alt=""/>
+      <caption webpage="automotive" alt=""/>
+      <caption webpage="automotive" alt=""/>
+      <caption webpage="banner" alt=""/>
+      <caption webpage="banner" alt=""/>
+      <caption webpage="product" alt=""/>
+      <caption webpage="product" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="photoshop" alt=""/>
+      <caption webpage="photoshop" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="book-cover" alt=""/>
+      <caption webpage="book-cover" alt=""/>
+      <caption webpage="website" alt=""/>
+      <caption webpage="website" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index:automotive:photoshop:product:contact:book-cover:banner:website:poster"/>
+    <file name="u233.png" crc="3896562776" ref="index:automotive:photoshop:product:contact:book-cover:banner:website:poster"/>
+    <file name="u233-r.png" crc="3915018392" ref="index:automotive:photoshop:product:contact:book-cover:banner:website:poster"/>
+    <file name="u233-a.png" crc="3915018392" ref="index:automotive:photoshop:product:contact:book-cover:banner:website:poster"/>
+    <file name="u226.png" crc="106240469" ref="index:automotive:photoshop:product:contact:book-cover:banner:website:poster"/>
+    <file name="u226-r.png" crc="206694859" ref="index:automotive:photoshop:product:contact:book-cover:banner:website:poster"/>
+    <file name="u226-a.png" crc="206694859" ref="index:automotive:photoshop:product:contact:book-cover:banner:website:poster"/>
+    <file name="u301.png" crc="105038366" ref="index:automotive:photoshop:product:contact:book-cover:banner:website:poster"/>
+    <file name="u301-r.png" crc="4022883110" ref="index:automotive:photoshop:product:contact:book-cover:banner:website:poster"/>
+    <file name="u301-a.png" crc="4022883110" ref="index:automotive:photoshop:product:contact:book-cover:banner:website:poster"/>
+    <file name="u271.png" crc="4028046628" ref="index:automotive:photoshop:product:contact:book-cover:banner:website:poster"/>
+    <file name="u271-r.png" crc="457589498" ref="index:automotive:photoshop:product:contact:book-cover:banner:website:poster"/>
+    <file name="u271-a.png" crc="457589498" ref="index:automotive:photoshop:product:contact:book-cover:banner:website:poster"/>
+    <file name="u330.png" crc="404332833" ref="index:automotive:photoshop:product:contact:book-cover:banner:website:poster"/>
+    <file name="u330-r.png" crc="159121421" ref="index:automotive:photoshop:product:contact:book-cover:banner:website:poster"/>
+    <file name="u330-a.png" crc="159121421" ref="index:automotive:photoshop:product:contact:book-cover:banner:website:poster"/>
+    <file name="u889-4.png" crc="4070584220" ref="index:automotive:photoshop:product:contact:book-cover:banner:website:poster"/>
+    <file name="u791.png" crc="361458318" ref="index:automotive:photoshop:product:contact:book-cover:banner:website:poster"/>
+    <file name="u791-r.png" crc="4010777843" ref="index:automotive:photoshop:product:contact:book-cover:banner:website:poster"/>
+    <file name="u791-a.png" crc="4010777843" ref="index:automotive:photoshop:product:contact:book-cover:banner:website:poster"/>
+    <file name="u774.png" crc="208763811" ref="index:automotive:photoshop:product:contact:book-cover:banner:website:poster"/>
+    <file name="u774-r.png" crc="3769227617" ref="index:automotive:photoshop:product:contact:book-cover:banner:website:poster"/>
+    <file name="u774-a.png" crc="3769227617" ref="index:automotive:photoshop:product:contact:book-cover:banner:website:poster"/>
+    <file name="u797.png" crc="3864067754" ref="index:automotive:photoshop:product:contact:book-cover:banner:website:poster"/>
+    <file name="u797-r.png" crc="4008977596" ref="index:automotive:photoshop:product:contact:book-cover:banner:website:poster"/>
+    <file name="u797-a.png" crc="4008977596" ref="index:automotive:photoshop:product:contact:book-cover:banner:website:poster"/>
+    <file name="u803.png" crc="494983178" ref="index:automotive:photoshop:product:contact:book-cover:banner:website:poster"/>
+    <file name="u803-r.png" crc="3935766663" ref="index:automotive:photoshop:product:contact:book-cover:banner:website:poster"/>
+    <file name="u803-a.png" crc="3935766663" ref="index:automotive:photoshop:product:contact:book-cover:banner:website:poster"/>
+    <file name="u784.png" crc="30348367" ref="index:automotive:photoshop:product:contact:book-cover:banner:website:poster"/>
+    <file name="u784-r.png" crc="209429155" ref="index:automotive:photoshop:product:contact:book-cover:banner:website:poster"/>
+    <file name="u784-a.png" crc="209429155" ref="index:automotive:photoshop:product:contact:book-cover:banner:website:poster"/>
+  </folder>
+  <file name="index.html" crc="4101347499" seo="true" mt="1498793961247" redirect="true"/>
+  <file name="automotive.html" crc="4164445171" seo="true" mt="1498793961247" redirect="true"/>
+  <file name="photoshop.html" crc="1175956" seo="true" mt="1498793961247" redirect="true"/>
+  <file name="product.html" crc="4164364244" seo="true" mt="1498793961247" redirect="true"/>
+  <file name="contact.html" crc="4034087739" seo="true" mt="1498793961247" redirect="true"/>
+  <file name="book-cover.html" crc="3990805753" seo="true" mt="1498793961247" redirect="true"/>
+  <file name="banner.html" crc="4268884482" seo="true" mt="1498793961247" redirect="true"/>
+  <file name="website.html" crc="452867987" seo="true" mt="1498793961247" redirect="true"/>
+  <file name="poster.html" crc="4015814944" seo="true" mt="1498793961247" redirect="true"/>
+</manifest>
