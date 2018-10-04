@@ -1,0 +1,44 @@
+<manifest alg="2" build="2017.0.3.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="georgechakiath.github.io" resolutions="1x" timestamp="1538680306128">
+  <folder name="css">
+    <file name="site_global.css" crc="96473188"/>
+    <file name="master_a-master.css" crc="373138761" ref="index"/>
+    <file name="index.css" crc="60009392" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="46400467" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="436936948" ref="index"/>
+    <file name="jquery.watch.js" crc="4178585335" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="532123423" ref="index"/>
+    <file name="require.js" crc="85721165" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="favicon.ico" crc="3956845687" ref="index"/>
+    <file name="1.jpg" crc="3843008115" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="1r.jpg" crc="117579548" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="daya.jpg" crc="131407676" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="arangu_website.jpg" crc="3781173737" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="cricket_poster.jpg" crc="35609046" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fdp_brochure_out.jpg" crc="4202184850" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="mockup.jpg" crc="191072950" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="wedding.jpg" crc="215376737" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="387664564" seo="true" mt="1538678783445" redirect="true"/>
+</manifest>
