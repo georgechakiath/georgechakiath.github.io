@@ -1,0 +1,276 @@
+<manifest alg="2" build="2017.0.3.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="georgechakiath.github.io" resolutions="1x" timestamp="1539076389574">
+  <folder name="css">
+    <file name="site_global.css" crc="3761688714"/>
+    <file name="master_a-master.css" crc="208873320" ref="daya:workshop:first-holy-communion:wedding-anniversary:maris:index:about:metron:fisat-trophy:arangu"/>
+    <file name="nomq_preview_master_a-master.css" crc="519186577" ref="daya:workshop:first-holy-communion:wedding-anniversary:maris:index:about:metron:fisat-trophy:arangu"/>
+    <file name="daya.css" crc="458668216" ref="daya"/>
+    <file name="nomq_daya.css" crc="162152538" ref="daya"/>
+    <file name="workshop.css" crc="3942021014" ref="workshop"/>
+    <file name="nomq_workshop.css" crc="3909522734" ref="workshop"/>
+    <file name="first-holy-communion.css" crc="3815059452" ref="first-holy-communion"/>
+    <file name="nomq_first-holy-communion.css" crc="3996775560" ref="first-holy-communion"/>
+    <file name="wedding-anniversary.css" crc="3828700013" ref="wedding-anniversary"/>
+    <file name="nomq_wedding-anniversary.css" crc="2470022" ref="wedding-anniversary"/>
+    <file name="maris.css" crc="89014650" ref="maris"/>
+    <file name="nomq_maris.css" crc="3797734596" ref="maris"/>
+    <file name="index.css" crc="4239776020" ref="index"/>
+    <file name="nomq_index.css" crc="3959441858" ref="index"/>
+    <file name="about.css" crc="296402026" ref="about"/>
+    <file name="nomq_about.css" crc="4087619855" ref="about"/>
+    <file name="metron.css" crc="407238595" ref="metron"/>
+    <file name="nomq_metron.css" crc="4064896756" ref="metron"/>
+    <file name="fisat-trophy.css" crc="3915652876" ref="fisat-trophy"/>
+    <file name="nomq_fisat-trophy.css" crc="3886970253" ref="fisat-trophy"/>
+    <file name="arangu.css" crc="4048746126" ref="arangu"/>
+    <file name="nomq_arangu.css" crc="102514592" ref="arangu"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:metron:daya:arangu:fisat-trophy:workshop:first-holy-communion:wedding-anniversary:maris:about"/>
+    <file name="museutils.js" crc="46400467" ref="index:metron:daya:arangu:fisat-trophy:workshop:first-holy-communion:wedding-anniversary:maris:about"/>
+    <file name="whatinput.js" crc="86476730" ref="index:metron:daya:arangu:fisat-trophy:workshop:first-holy-communion:wedding-anniversary:maris:about"/>
+    <file name="museconfig.js" crc="436936948" ref="index:metron:daya:arangu:fisat-trophy:workshop:first-holy-communion:wedding-anniversary:maris:about"/>
+    <file name="jquery.watch.js" crc="4178585335" ref="index:metron:daya:arangu:fisat-trophy:workshop:first-holy-communion:wedding-anniversary:maris:about"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="532123423" ref="index:metron:daya:arangu:fisat-trophy:workshop:first-holy-communion:wedding-anniversary:maris"/>
+    <file name="jquery.museresponsive.js" crc="52098982" ref="index:metron:daya:arangu:fisat-trophy:workshop:first-holy-communion:wedding-anniversary:maris:about"/>
+    <file name="require.js" crc="85721165" ref="index:metron:daya:arangu:fisat-trophy:workshop:first-holy-communion:wedding-anniversary:maris:about"/>
+  </folder>
+  <folder name="images">
+    <file name="favicon.ico" crc="3823660540" ref="index"/>
+    <file name="1.jpg" crc="513361234" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="1r.jpg" crc="3927747272" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2.jpg" crc="341155094" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2r.jpg" crc="4124637697" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="3.jpg" crc="444620858" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="3r.jpg" crc="499645546" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="4.jpg" crc="4140734223" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="4r.jpg" crc="133961364" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="maris_b-u3238-fr.jpg" crc="3912675889" ref="index"/>
+    <file name="maris_br.jpg" crc="276939324" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="5.jpg" crc="3876787883" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="5r.jpg" crc="3851666971" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="6.jpg" crc="4226532887" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="6r.jpg" crc="488494091" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="7.jpg" crc="4138310394" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="7r.jpg" crc="4228817408" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="maris_b-u3238-fr2.jpg" crc="4164483217" ref="index"/>
+    <file name="1-u3240-fr.jpg" crc="209292156" ref="index"/>
+    <file name="1r-u3240-r-fr.jpg" crc="4007519450" ref="index"/>
+    <file name="2-u3239-fr.jpg" crc="3766599344" ref="index"/>
+    <file name="2r-u3239-r-fr.jpg" crc="334578865" ref="index"/>
+    <file name="3-u3235-fr.jpg" crc="102571042" ref="index"/>
+    <file name="3r-u3235-r-fr.jpg" crc="4144433355" ref="index"/>
+    <file name="4-u3241-fr.jpg" crc="4150852321" ref="index"/>
+    <file name="4r-u3241-r-fr.jpg" crc="4037078325" ref="index"/>
+    <file name="maris_b-u3238-fr3.jpg" crc="359431551" ref="index"/>
+    <file name="maris_br-u3238-r-fr.jpg" crc="4213255965" ref="index"/>
+    <file name="5-u3236-fr.jpg" crc="451138963" ref="index"/>
+    <file name="5r-u3236-r-fr.jpg" crc="287756117" ref="index"/>
+    <file name="6-u3242-fr.jpg" crc="428646943" ref="index"/>
+    <file name="6r-u3242-r-fr.jpg" crc="4187965743" ref="index"/>
+    <file name="7-u3237-fr.jpg" crc="149852660" ref="index"/>
+    <file name="7r-u3237-r-fr.jpg" crc="527711881" ref="index"/>
+    <file name="maris_b-u3238-fr4.jpg" crc="4009334250" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index:metron:daya:arangu:fisat-trophy:workshop:first-holy-communion:wedding-anniversary:maris:about"/>
+    <file name="m.jpg" crc="3875207012" ref="metron">
+      <caption webpage="metron" alt=""/>
+      <caption webpage="metron" alt=""/>
+    </file>
+    <file name="m0.jpg" crc="105465367" ref="metron">
+      <caption webpage="metron" alt=""/>
+      <caption webpage="metron" alt=""/>
+    </file>
+    <file name="m10.jpg" crc="214209365" ref="metron">
+      <caption webpage="metron" alt=""/>
+      <caption webpage="metron" alt=""/>
+    </file>
+    <file name="mb.jpg" crc="398534239" ref="metron">
+      <caption webpage="metron" alt=""/>
+      <caption webpage="metron" alt=""/>
+    </file>
+    <file name="m-u2727-fr.jpg" crc="4275203104" ref="metron"/>
+    <file name="m0-u2728-fr.jpg" crc="3925773982" ref="metron"/>
+    <file name="m10-u2729-fr.jpg" crc="195123286" ref="metron"/>
+    <file name="mb-u2730-fr.jpg" crc="237772189" ref="metron"/>
+    <file name="m-u2727-fr2.jpg" crc="4260752612" ref="metron"/>
+    <file name="m0-u2728-fr2.jpg" crc="447377239" ref="metron"/>
+    <file name="m10-u2729-fr2.jpg" crc="4202494703" ref="metron"/>
+    <file name="mb-u2730-fr2.jpg" crc="345602467" ref="metron"/>
+    <file name="daya_whitebg.jpg" crc="3872885516" ref="daya">
+      <caption webpage="daya" alt=""/>
+      <caption webpage="daya" alt=""/>
+    </file>
+    <file name="daya_phone.jpg" crc="3921088205" ref="daya">
+      <caption webpage="daya" alt=""/>
+      <caption webpage="daya" alt=""/>
+    </file>
+    <file name="daya_frame.jpg" crc="46645049" ref="daya">
+      <caption webpage="daya" alt=""/>
+      <caption webpage="daya" alt=""/>
+    </file>
+    <file name="daya_tshirt.jpg" crc="3842958702" ref="daya">
+      <caption webpage="daya" alt=""/>
+      <caption webpage="daya" alt=""/>
+    </file>
+    <file name="daya_whitebg-u2083-fr.jpg" crc="422798226" ref="daya"/>
+    <file name="daya_phone-u2097-fr.jpg" crc="3966607149" ref="daya"/>
+    <file name="daya_frame-u2130-fr.jpg" crc="510096297" ref="daya"/>
+    <file name="daya_tshirt-u2131-fr.jpg" crc="225339259" ref="daya"/>
+    <file name="daya_whitebg-u2083-fr2.jpg" crc="397996456" ref="daya"/>
+    <file name="daya_phone-u2097-fr2.jpg" crc="318778472" ref="daya"/>
+    <file name="daya_frame-u2130-fr2.jpg" crc="26452017" ref="daya"/>
+    <file name="daya_tshirt-u2131-fr2.jpg" crc="468865960" ref="daya"/>
+    <file name="arangu_phone.jpg" crc="404248931" ref="arangu">
+      <caption webpage="arangu" alt=""/>
+      <caption webpage="arangu" alt=""/>
+    </file>
+    <file name="arangu_website2.jpg" crc="36988450" ref="arangu">
+      <caption webpage="arangu" alt=""/>
+      <caption webpage="arangu" alt=""/>
+    </file>
+    <file name="arangu_phone-u2184-fr.jpg" crc="216334694" ref="arangu"/>
+    <file name="arangu_website2-u2186-fr.jpg" crc="4201366811" ref="arangu"/>
+    <file name="arangu_phone-u2184-fr2.jpg" crc="3774085812" ref="arangu"/>
+    <file name="arangu_website2-u2186-fr2.jpg" crc="3943192583" ref="arangu"/>
+    <file name="cricket_brochure_f.jpg" crc="19991460" ref="fisat-trophy">
+      <caption webpage="fisat-trophy" alt=""/>
+      <caption webpage="fisat-trophy" alt=""/>
+    </file>
+    <file name="cricket_brochure.jpg" crc="72916149" ref="fisat-trophy">
+      <caption webpage="fisat-trophy" alt=""/>
+      <caption webpage="fisat-trophy" alt=""/>
+    </file>
+    <file name="cricket_flex3.jpg" crc="4225070194" ref="fisat-trophy">
+      <caption webpage="fisat-trophy" alt=""/>
+      <caption webpage="fisat-trophy" alt=""/>
+    </file>
+    <file name="cricket_flex1.jpg" crc="160259" ref="fisat-trophy">
+      <caption webpage="fisat-trophy" alt=""/>
+      <caption webpage="fisat-trophy" alt=""/>
+    </file>
+    <file name="cricket_flex2.jpg" crc="3904473505" ref="fisat-trophy">
+      <caption webpage="fisat-trophy" alt=""/>
+      <caption webpage="fisat-trophy" alt=""/>
+    </file>
+    <file name="cricket_brochure_f-u2243-fr.jpg" crc="523903080" ref="fisat-trophy"/>
+    <file name="cricket_brochure-u2621-fr.jpg" crc="490753414" ref="fisat-trophy"/>
+    <file name="cricket_flex3-u2622-fr.jpg" crc="4016027264" ref="fisat-trophy"/>
+    <file name="cricket_flex1-u2623-fr.jpg" crc="242772401" ref="fisat-trophy"/>
+    <file name="cricket_flex2-u2624-fr.jpg" crc="3773585962" ref="fisat-trophy"/>
+    <file name="cricket_brochure_f-u2243-fr2.jpg" crc="197765134" ref="fisat-trophy"/>
+    <file name="cricket_brochure-u2621-fr2.jpg" crc="3903064005" ref="fisat-trophy"/>
+    <file name="cricket_flex3-u2622-fr2.jpg" crc="4139599298" ref="fisat-trophy"/>
+    <file name="cricket_flex1-u2623-fr2.jpg" crc="361598882" ref="fisat-trophy"/>
+    <file name="cricket_flex2-u2624-fr2.jpg" crc="4289193669" ref="fisat-trophy"/>
+    <file name="fdp_1.jpg" crc="224652945" ref="workshop">
+      <caption webpage="workshop" alt=""/>
+      <caption webpage="workshop" alt=""/>
+    </file>
+    <file name="fdp_2.jpg" crc="260439392" ref="workshop">
+      <caption webpage="workshop" alt=""/>
+      <caption webpage="workshop" alt=""/>
+    </file>
+    <file name="fdp_3.jpg" crc="389530322" ref="workshop">
+      <caption webpage="workshop" alt=""/>
+      <caption webpage="workshop" alt=""/>
+    </file>
+    <file name="fdp_1-u2361-fr.jpg" crc="350213028" ref="workshop"/>
+    <file name="fdp_2-u2362-fr.jpg" crc="207807112" ref="workshop"/>
+    <file name="fdp_3-u2363-fr.jpg" crc="4116640159" ref="workshop"/>
+    <file name="fdp_1-u2361-fr2.jpg" crc="4063169301" ref="workshop"/>
+    <file name="fdp_2-u2362-fr2.jpg" crc="290545614" ref="workshop"/>
+    <file name="fdp_3-u2363-fr2.jpg" crc="124466635" ref="workshop"/>
+    <file name="joshu.jpg" crc="479032234" ref="first-holy-communion">
+      <caption webpage="first-holy-communion" alt=""/>
+      <caption webpage="first-holy-communion" alt=""/>
+    </file>
+    <file name="joshu-u2419-fr.jpg" crc="460004407" ref="first-holy-communion"/>
+    <file name="joshu-u2419-fr2.jpg" crc="4064493632" ref="first-holy-communion"/>
+    <file name="wedding.jpg" crc="4137643418" ref="wedding-anniversary">
+      <caption webpage="wedding-anniversary" alt=""/>
+      <caption webpage="wedding-anniversary" alt=""/>
+    </file>
+    <file name="wedding-u2481-fr.jpg" crc="477019410" ref="wedding-anniversary"/>
+    <file name="wedding-u2481-fr2.jpg" crc="3811826026" ref="wedding-anniversary"/>
+    <file name="maris_b.jpg" crc="217005863" ref="maris">
+      <caption webpage="maris" alt=""/>
+      <caption webpage="maris" alt=""/>
+    </file>
+    <file name="maris.jpg" crc="175251645" ref="maris">
+      <caption webpage="maris" alt=""/>
+    </file>
+    <file name="maris_b-u3167-fr.jpg" crc="4169297923" ref="maris"/>
+    <file name="maris-u3195-fr.jpg" crc="20593698" ref="maris"/>
+    <file name="maris_b-u3167-fr2.jpg" crc="96161611" ref="maris"/>
+    <file name="maris-u3195-fr2.jpg" crc="22503332" ref="maris"/>
+  </folder>
+  <file name="index.html" crc="3971665361" seo="true" mt="1539076310979" redirect="true"/>
+  <file name="metron.html" crc="4162313953" seo="true" mt="1539075561535" redirect="true"/>
+  <file name="daya.html" crc="3850126569" seo="true" mt="1539075561535" redirect="true"/>
+  <file name="arangu.html" crc="515921698" seo="true" mt="1539075561535" redirect="true"/>
+  <file name="fisat-trophy.html" crc="288962898" seo="true" mt="1539075561535" redirect="true"/>
+  <file name="workshop.html" crc="3899790266" seo="true" mt="1539075561535" redirect="true"/>
+  <file name="first-holy-communion.html" crc="234138596" seo="true" mt="1539075561535" redirect="true"/>
+  <file name="wedding-anniversary.html" crc="146055057" seo="true" mt="1539075561535" redirect="true"/>
+  <file name="maris.html" crc="33731260" seo="true" mt="1539075561535" redirect="true"/>
+  <file name="about.html" crc="4180854811" seo="true" mt="1539075561535" redirect="true"/>
+</manifest>
